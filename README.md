@@ -3,20 +3,6 @@
 Welcome to my website! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations.
 
-### What is Plasma Turbulence?
-
-Let's take it one word at a time.
-
-**Plasma** is gas that's been broken down into positively charged ions and negatively charged electrons. In our research group, we treat plasma as if it were a fluid (like water or air). We don't focus on the atomic level physics.
-
-**Turbulence** is irregular motion of fluid particles. If you've ever flown on a plane, walked along the surf, or even stirred a cup of coffee, you've experienced turbulence. 
-
-So, **plasma turbulence** describes irregular movement of plasma particles.
-
-### Why do we care?
-
-Because plasma turbulence is everywhere! The vast majority of our universe consists of plasma particles, and these particles do not like to sit still. Plasma turbulence is believed to play a key role in many interesting astrophysical phenomena, including star and galaxy formation, and cosmic ray acceleration.
-
 Here is a gif showing density in an MHD simulation. The streamlines show the magnetic field lines.
 
 ![](MHD-256.gif)
