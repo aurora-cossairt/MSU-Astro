@@ -2,7 +2,7 @@
 
 Let's attempt to embed a gif:
 
-![](ezgif.com-video-to-gif.gif (2))
+![](ezgif.com-video-to-gif (2).gif)
 
 You can use the [editor on GitHub](https://github.com/aurora-cossairt/msu-astro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
