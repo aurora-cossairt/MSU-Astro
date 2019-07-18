@@ -1,12 +1,20 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
-Let's attempt to embed a gif:
+Here is a gif showing density in an MHD simulation. The streamlines show the magnetic field lines.
 
 ![](MHD-256.gif)
+![](MHD_acceleration_x_x_movie.gif)
+![](MHD_cell_centered_B_x_x_movie.gif)
+![](MHD_velocity_x_x_movie.gif)
 
-You can use the [editor on GitHub](https://github.com/aurora-cossairt/msu-astro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Hydro
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](hydro_density_x_movie.gif)
+![](hydro_velocity_x_x_movie.gif)
+
+### Power Spectra
+
+![](rhoU_Full_power_spectra.gif)
 
 ### Markdown
 
