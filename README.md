@@ -1,7 +1,5 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
-![](hydro_a-64.00_density_z.gif)
-
 Welcome to my virtual gallery! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations.
 
@@ -14,7 +12,13 @@ Please enjoy these fun visualizations that illustrate what's happening in plasma
 
 The following visualizations illustrate *density, velocity, acceleration, and cell-centered magnetic field strength* for both hydrodynamic and magnetohydrodynamic simulations.
 
+### What do these visuals show?
 
+To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with different levels of compressibility (different sonic Mach numbers). Our simulations have Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6. 
+ 
+The features illustrated include density, velocity, acceleration, and cell-centered magnetic field magnitudes (though we could have plotted other features as well). Each plot illustrates how one of these features evolves from the beginning of the simulation to the end. Remember: these are sliceplots, so they are only giving us a two dimensional view of what is really a 3D simulation. The sliceplots shown here are all perpendicular to the x axis, but we could just as easily have chosen to look from the y or z direction.
+
+![](hydro_a-64.00_density_z.gif)
 ## Hydrodynamic simulations
 
 These visuals come from hydrodynamic situations. They show plasma turbulence with no magenetic fields present.
@@ -43,13 +47,6 @@ These visuals illustrate plasma turbulence in the presence of magnetic fields. T
 
 ### Cell-centered magnetic field magnitudes
 ![](MHD_cell_centered_B_x_x_movie.gif)
-
-
-### What do these visuals show?
-
-To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with different levels of compressibility (different sonic Mach numbers). Our simulations have Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6. 
- 
-The features illustrated include density, velocity, acceleration, and cell-centered magnetic field magnitudes (though we could have plotted other features as well). Each plot illustrates how one of these features evolves from the beginning of the simulation to the end. Remember: these are sliceplots, so they are only giving us a two dimensional view of what is really a 3D simulation. The sliceplots shown here are all perpendicular to the x axis, but we could just as easily have chosen to look from the y or z direction.
 
 ### Power Spectra
 
