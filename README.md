@@ -3,7 +3,13 @@
 Welcome to my virtual gallery! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations.
 
-### **Turbulence is beautiful**
+### *Turbulence is Beautiful*
+![](hydro_a-64.00_density_z.gif)
+![](MHD_a-64.00_density_z.gif)
+
+*Plasma turbulence* is irregular motion of plasma fluids. It plays an important role in star formation, galaxy formation, and other interesting phenomena, but **turbulence is not well understood.**
+
+**Large scale computer simulations** allow us to *visualize* turbulence and *analyze* what is happening.
 
 ### What do these visuals show?
 
