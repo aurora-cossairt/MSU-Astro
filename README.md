@@ -3,6 +3,8 @@
 Welcome to my virtual gallery! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations.
 
+### **Turbulence is beautiful**
+
 ### What do these visuals show?
 
 To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with different levels of compressibility (different sonic Mach numbers). In these simulations, we include forcing amplitudes of 0.25, 1, 4, 16, and 64. The multipanel animations follow this order from left to right and top to bottom.
