@@ -9,6 +9,7 @@ Please enjoy these fun visualizations that illustrate what's happening in plasma
 
 ### **Turbulence is Beautiful**
 ![](MHD_a-64.00_density_z.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Plasma turbulence* is irregular motion of plasma fluids. It plays an important role in star formation, galaxy formation, and other interesting phenomena, but **turbulence is not well understood.**
 
