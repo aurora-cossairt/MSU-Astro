@@ -1,6 +1,10 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
 ### Practice gif
+<p align="center">
+  <img width="460" height="300" src=MHD_a-64.00_density_z.gif>
+</p>
+
 <img src='https://i.imgur.com/yODYU7M.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
