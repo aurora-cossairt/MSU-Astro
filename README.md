@@ -1,6 +1,6 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
-![](<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Welcome to my virtual gallery! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations.
