@@ -111,19 +111,3 @@ Thanks to my mentors, Dr. Philipp Grete and Dr. Brian O'Shea of Michigan State U
 We run our plasma turbulence simulations using Athena, which was developed at Princeton (https://github.com/PrincetonUniversity/Athena-Cversion)
 
 Citation: J. M. Stone, et. al. (2008). Astrophys. J. Suppl. Ser. 178, 137
-
-## Image experimentation
-
-<img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
-
-<iframe src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Another attempt:
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-![](MHD_a-64.00_density_z.gif)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
