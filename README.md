@@ -1,63 +1,114 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
 Welcome to my virtual gallery! 
-Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations
+Please enjoy these visualizations that illustrate my **plasma turbulence simulations**
 
 <p align="center">
   <img src="MHD_a-64.00_density_z.gif">
 </p>
 
-*Plasma turbulence* is irregular motion of plasma fluids. It plays an important role in star formation, galaxy formation, and other interesting phenomena, but **turbulence is not well understood.**
-
-**Large scale computer simulations** allow us to *visualize* turbulence and *analyze* what is happening.
-
-
 ### What do these visuals show?
 
-To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with **different levels of compressibility** (different sonic Mach numbers). Our simulations have Mach numbers of Ms=0.4, Ms=0.8, Ms=1.6, Ms=2.9, and Ms=5.6. 
- 
-These animatations illustrate *density, velocity, acceleration, and cell-centered magnetic field magnitudes*. They allow us to visualize how these features change over the course of the simulation (start at Turb.0001, end at Turb.0100). 
+*Plasma turbulence* is irregular motion of plasma fluids. It plays an important role in star formation, galaxy formation, and other interesting phenomena, but **turbulence is not well understood.**
 
-Remember: **these are sliceplots**, so they are only giving us a two dimensional view of what is really a 3D simulation. Most of the sliceplots shown here are oriented perpendicular to the x axis, but we could just as easily have chosen to look from the y or z direction.
+To **simulate plasma turbulence**, we computationally simulate stirring fluid inside a 3D box. The visuals here are *sliceplots* which let us peer through one side of the box to see what is happening inside. 
 
-![](hydro_a-64.00_density_z.gif)
-## Hydrodynamic simulations
+This example (from a hydrodynamic simulations) shows the density of fluid by looking along the x-axis:
 
-These visuals come from hydrodynamic situations. They show plasma turbulence with no magenetic fields present.
-
-#### Density
 <p align="center">
-  <img width="460" height="300" src=hydro_density_x_movie.gif>
+  <img src="MHD_a-64.00_density_z.gif">
 </p>
 
-*Noteable features*: notice that all these visuals have their own colorscale. This is because there is significantly more variation in the density of simulations with high forcing amplitudes than in those with low forcing amplitudes. Using independent scales for each simulation allows us to detect the turbulence present in all of them, rather than only those with large forcing amplitudes.
+Here's the same simulation viewed along the y-axis:
 
-In the last three panels, we see shock waves developing. This indicates that the sonic Mach number is greater than or equal to 1 (the speed of the average particle is greater than the speed of sound).
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
 
-#### Velocity
-![](hydro_velocity_x_x_movie.gif)
+The **forcing amplitude** tells us how quickly we spin the stir sticks that drive the turbulence. Varying the forcing amplitude allows us to simulate turbulent systems with **different sonic Mach numbers** (different levels of compressibility). 
 
-### Magnetohydrodynamic (MHD) Simulations
-These visuals illustrate plasma turbulence in the presence of magnetic fields. The streamlines here illustrate the magnetic field lines in the two directions perpendicular to the viewing direction. I've also changed the colorscheme so it's easier to see the streamlines. Notice how the features of these simulations seem to be shaped by the magnetic field lines.
+Here is a look at 5 different simulations (all viewed along the x-axis) with Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6. 
 
-#### Density
-![](MHD-256.gif)
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
 
-### Velocity
-![](MHD_velocity_x_x_movie.gif)
+We can see **shock waves** developing in the bottom two panels (and a bit of the upper right). This is because these simulations had Mach numbers greater than 1, so the plasma particles are moving **faster than the speed of sound**.
 
-### Acceleration
-![](MHD_acceleration_x_x_movie.gif)
+*Notice* that all these visuals have their own colorscale. This is because there is significantly more variation in the density of simulations with higher Mach numbers than in those with low Mach numbers. If we used the same colorscale for all, we wouldn't detect any turbulence in the simulations with low Mach numbers.
 
-### Cell-centered magnetic field magnitudes
+We can also examine **velocity** and **acceleration** for these simulations.
+
+**Velocity**
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+**Acceleration**
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+The acceleration sliceplots barely seem to change. Why is that? Here, *acceleration* refers to the acceleration of the **driving** (the "stirring"). We have set the parameters of the simulations so that the forcing amplitude is constant, so the acceleration associated with the driving force should remain the same.
+
+### Magnetized Turbulence
+
+The previous examples were all from **hydrodynamic** simulations (meaning there were no magnetic fields). *Without magnetic fields, plasma behaves just like any other fluid.* For this reason, we are interested in **magnetohydrodynamics** (MHD)--how plasma fluid moves in the presence of magnetic fields.
+
+Let's look again at one of the density sliceplots. The streamlines here illustrate the magnetic field lines (which begin all pointing the same direction).
+
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+Notice how the features of these simulations seem to be shaped by the magnetic field lines! This is due to **flux-freezing**, a phenomenon in which magnetic field lines are "frozen in" to the plasma fluid. If the fluid moves, so do the magnetic fields. This creates **magnetic tension** which can, in turn, **impose structure** on the fluid.
+
+*Look what happens* to the velocity in an MHD simulation!
+
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+Again, we can vary the **forcing amplitude** to see how this plays out for simulations with different **sonic Mach numbers** (upper left to bottom right: Ms = 0.4, Ms = 0.8, Ms = 1.6, Ms = 2.9, Ms = 5.6)
+
+**Density**
+
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+**Velocity**
+
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+**Acceleration**
+
+<p align="center">
+  <img src="MHD_a-64.00_density_z.gif">
+</p>
+
+This time, we can also look at the **cell-centered magnetic fields**
+
 ![](MHD_cell_centered_B_x_x_movie.gif)
 
-### Power Spectra
+### Energy Transport
+
+All of these simulations can help us understand **how energy is transported** is turbulent systems. We are interested in how energy gets converted from *kinetic* to *magnetic* (and vice-versa) and how energy is carried from *large scales* to *small scales* (and vice-versa)
+
+A **Kolmogorov Power Spectra** illustrates how much energy is contained in different scales in the simulation. This animation shows how the *Kinetic Energy Power Spectrum* changes over the course of the simulation
 
 ![](rhoU_Full_power_spectra.gif)
 
+Creating this kind of power spectrum is one way that we can *analyze energy transport* in the simulations. As part of the ICER-ACRES program at Michigan State University, I helped develop *a new way to analyze energy transport*. To learn more about what we learned, please refer to my poster (presented at the 9th annual Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE))
+
 ## Acknowledgements
+Thanks to my mentors, Dr. Philipp Grete and Dr. Brian O'Shea of Michigan State University.
+
 We run our plasma turbulence simulations using Athena, which was developed at Princeton (https://github.com/PrincetonUniversity/Athena-Cversion)
+
+Citation: J. M. Stone, et. al. (2008). Astrophys. J. Suppl. Ser. 178, 137
 
 ## Image experimentation
 
