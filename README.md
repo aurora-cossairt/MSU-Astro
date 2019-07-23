@@ -3,6 +3,8 @@
 ### Practice gif
 <img src='https://i.imgur.com/yODYU7M.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
+
 {% include youtube.html id="U0Cxs1h-4Dc" %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
