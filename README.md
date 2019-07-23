@@ -5,8 +5,8 @@ Please enjoy these fun visualizations that illustrate what's happening in plasma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Turbulence is Beautiful**
 <p align="center">
+  ### **Turbulence is Beautiful**
   <img width="690" height="450" src="MHD_a-64.00_density_z.gif">
 </p>
 
