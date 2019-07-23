@@ -2,7 +2,7 @@
 
 ### Attempting to be inclusive
 
-{% include youtube.html id="U0Cxs1h-4Dc" %}
+{% include youtube.html%}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
