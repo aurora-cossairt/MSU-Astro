@@ -1,20 +1,11 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
-### Practice gif
 <p align="center">
   <img width="460" height="300" src=MHD_a-64.00_density_z.gif>
 </p>
 
-<img src='https://i.imgur.com/yODYU7M.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
-
-{% include youtube.html id="U0Cxs1h-4Dc" %}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Welcome to my virtual gallery! 
-Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations.
+Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations
 
 ### **Turbulence is Beautiful**
 ![](MHD_a-64.00_density_z.gif)
@@ -23,13 +14,13 @@ Please enjoy these fun visualizations that illustrate what's happening in plasma
 
 **Large scale computer simulations** allow us to *visualize* turbulence and *analyze* what is happening.
 
-The following visualizations illustrate *density, velocity, acceleration, and cell-centered magnetic field strength* for both hydrodynamic and magnetohydrodynamic simulations.
-
 ### What do these visuals show?
 
-To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with different levels of compressibility (different sonic Mach numbers). Our simulations have Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6. 
+To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with **different levels of compressibility** (different sonic Mach numbers). Our simulations have Mach numbers of Ms=0.4, Ms=0.8, Ms=1.6, Ms=2.9, and Ms=5.6. 
  
-The features illustrated include density, velocity, acceleration, and cell-centered magnetic field magnitudes (though we could have plotted other features as well). Each plot illustrates how one of these features evolves from the beginning of the simulation to the end. Remember: these are sliceplots, so they are only giving us a two dimensional view of what is really a 3D simulation. The sliceplots shown here are all perpendicular to the x axis, but we could just as easily have chosen to look from the y or z direction.
+These animatations illustrate *density, velocity, acceleration, and cell-centered magnetic field magnitudes*. They allow us to visualize how these features change over the course of the simulation (start at Turb.0001, end at Turb.0100). 
+
+Remember: **these are sliceplots**, so they are only giving us a two dimensional view of what is really a 3D simulation. Most of the sliceplots shown here are oriented perpendicular to the x axis, but we could just as easily have chosen to look from the y or z direction.
 
 ![](hydro_a-64.00_density_z.gif)
 ## Hydrodynamic simulations
@@ -37,7 +28,9 @@ The features illustrated include density, velocity, acceleration, and cell-cente
 These visuals come from hydrodynamic situations. They show plasma turbulence with no magenetic fields present.
 
 #### Density
-![](hydro_density_x_movie.gif)
+<p align="center">
+  <img width="460" height="300" src=hydro_density_x_movie.gif>
+</p>
 
 *Noteable features*: notice that all these visuals have their own colorscale. This is because there is significantly more variation in the density of simulations with high forcing amplitudes than in those with low forcing amplitudes. Using independent scales for each simulation allows us to detect the turbulence present in all of them, rather than only those with large forcing amplitudes.
 
@@ -67,3 +60,11 @@ These visuals illustrate plasma turbulence in the presence of magnetic fields. T
 
 ## Acknowledgements
 We run our plasma turbulence simulations using Athena, which was developed at Princeton (https://github.com/PrincetonUniversity/Athena-Cversion)
+
+## Image experimentation
+
+<img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
+
+{% include youtube.html id="U0Cxs1h-4Dc" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
