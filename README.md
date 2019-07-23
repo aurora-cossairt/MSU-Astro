@@ -8,7 +8,7 @@ Please enjoy these fun visualizations that illustrate what's happening in plasma
 ### **Turbulence is Beautiful**
 
 <p align="center">
-  <image src="MHD_a-64.00_density_z.gif">
+  <img src="MHD_a-64.00_density_z.gif">
 </p>
 
 ![](MHD_a-64.00_density_z.gif)
