@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Plasma Turbulence
 description: Animations, figures, and additional information
+includes_dir: _includes
