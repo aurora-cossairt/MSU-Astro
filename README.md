@@ -3,9 +3,13 @@
 Is this working?
 ### Attempting to be inclusive
 
-{% include youtube.html%}
+{% include youtube.html id=U0Cxs1h-4Dc %}
+
+Here is the second line
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And the third
 
 <p align="center">
   <img width="460" height="300" src=MHD_a-64.00_density_z.gif>
