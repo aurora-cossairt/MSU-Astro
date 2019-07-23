@@ -3,26 +3,14 @@
 Welcome to my virtual gallery! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations
 
-<iframe src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### **Turbulence is Beautiful**
-
 <p align="center">
   <img src="MHD_a-64.00_density_z.gif">
 </p>
-
-![](MHD_a-64.00_density_z.gif)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Plasma turbulence* is irregular motion of plasma fluids. It plays an important role in star formation, galaxy formation, and other interesting phenomena, but **turbulence is not well understood.**
 
 **Large scale computer simulations** allow us to *visualize* turbulence and *analyze* what is happening.
 
-Another attempt:
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ### What do these visuals show?
 
@@ -74,3 +62,16 @@ We run our plasma turbulence simulations using Athena, which was developed at Pr
 ## Image experimentation
 
 <img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
+
+
+<iframe src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Another attempt:
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+![](MHD_a-64.00_density_z.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
