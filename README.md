@@ -1,5 +1,11 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
+### Attempting to be inclusive
+
+{% include youtube.html id="U0Cxs1h-4Dc" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center">
   <img width="460" height="300" src=MHD_a-64.00_density_z.gif>
 </p>
@@ -65,7 +71,3 @@ We run our plasma turbulence simulations using Athena, which was developed at Pr
 ## Image experimentation
 
 <img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
-
-{% include youtube.html id="U0Cxs1h-4Dc" %}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
