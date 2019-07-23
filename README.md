@@ -16,13 +16,13 @@ To **simulate plasma turbulence**, we computationally simulate stirring fluid in
 This example (from a hydrodynamic simulation) looks along the x-axis to see the *density of the fluid* inside:
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="a-64.00_density_x.gif">
 </p>
 
 Here's the same simulation viewed along the z-axis:
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="a-64.00_density_z.gif">
 </p>
 
 The **forcing amplitude** tells us how quickly we spin the stir sticks that drive the turbulence. Varying the forcing amplitude allows us to simulate turbulent systems with **different sonic Mach numbers** (different levels of compressibility). 
@@ -30,7 +30,7 @@ The **forcing amplitude** tells us how quickly we spin the stir sticks that driv
 Here is a look at 5 different simulations (all viewed along the x-axis) with Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6 (from upper left to bottom right). 
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="hydro_density_x_movie.gif">
 </p>
 
 We can see **shock waves** developing in the bottom two panels (and a bit of the upper right). This is because these simulations had Mach numbers greater than 1, so the plasma particles are moving **faster than the speed of sound**.
@@ -41,12 +41,12 @@ We can also examine **velocity** and **acceleration** for these simulations.
 
 **Velocity**
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="hydro_velocity_x_x_movie.gif">
 </p>
 
 **Acceleration**
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="hydro_acceleration_x_x_movie.gif">
 </p>
 
 The acceleration sliceplots barely seem to change. Why is that? Here, *acceleration* refers to the acceleration of the **driving** (the "stirring"). We have set the parameters of the simulations so that the forcing amplitude is constant, so the acceleration associated with the driving force should remain the same.
@@ -66,7 +66,7 @@ Notice how the features of these simulations seem to be shaped by the magnetic f
 *Look what happens* to the velocity in an MHD simulation!
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="MHD_velocity_x_x_movie.gif">
 </p>
 
 Again, we can vary the **forcing amplitude** to see how this plays out for simulations with different **sonic Mach numbers** (upper left to bottom right: Ms = 0.4, Ms = 0.8, Ms = 1.6, Ms = 2.9, Ms = 5.6)
@@ -80,18 +80,20 @@ Again, we can vary the **forcing amplitude** to see how this plays out for simul
 **Velocity**
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="MHD_velocity_x_x_movie.gif">
 </p>
 
 **Acceleration**
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="MHD_acceleration_x_x_movie.gif">
 </p>
 
 This time, we can also look at the **cell-centered magnetic fields**
 
-![](MHD_cell_centered_B_x_x_movie.gif)
+<p align="center">
+  <img src="MHD_cell_centered_B_x_x_movie.gif">
+</p>
 
 ### Energy Transport
 
