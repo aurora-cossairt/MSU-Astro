@@ -26,6 +26,12 @@ Please enjoy these fun visualizations that illustrate what's happening in plasma
 
 **Large scale computer simulations** allow us to *visualize* turbulence and *analyze* what is happening.
 
+Another attempt:
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### What do these visuals show?
 
 To simulate plasma turbulence, we computationally simulate stirring fluid inside a 3D box. The **forcing amplitude** tells us how quickly we spin the stir sticks. Varying the forcing amplitude allows us to simulate turbulent systems with **different levels of compressibility** (different sonic Mach numbers). Our simulations have Mach numbers of Ms=0.4, Ms=0.8, Ms=1.6, Ms=2.9, and Ms=5.6. 
