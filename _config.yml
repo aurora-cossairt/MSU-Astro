@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Plasma Turbulence
-description: Animations, figures, and additional information
+description: Animations and visualizations for simulated hydrodynamic and magnetohydrodynamic turbulence
 includes_dir: _includes
