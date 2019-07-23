@@ -1,24 +1,15 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
-Is this working?
-### Attempting to be inclusive
-
-{% include youtube.html id=U0Cxs1h-4Dc %}
-
-Here is the second line
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-And the third
-
-<p align="center">
-  <img width="460" height="300" src=MHD_a-64.00_density_z.gif>
-</p>
-
 Welcome to my virtual gallery! 
 Please enjoy these fun visualizations that illustrate what's happening in plasma turbulence simulations
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Turbulence is Beautiful**
+<p align="center">
+  <img width="460" height="300" src="MHD_a-64.00_density_z.gif">
+</p>
+
 ![](MHD_a-64.00_density_z.gif)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
