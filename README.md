@@ -11,15 +11,15 @@ Please enjoy these visualizations that illustrate my **plasma turbulence simulat
 
 *Plasma turbulence* is irregular motion of plasma fluids. It plays an important role in star formation, galaxy formation, and other interesting phenomena, but **turbulence is not well understood.**
 
-To **simulate plasma turbulence**, we computationally simulate stirring fluid inside a 3D box. The visuals here are *sliceplots* which let us peer through one side of the box to see what is happening inside. 
+To **simulate plasma turbulence**, we computationally simulate stirring fluid inside a 3D box. The visuals here are *sliceplots* which let us *peer through one side of the box* to see what is happening inside. 
 
-This example (from a hydrodynamic simulations) shows the density of fluid by looking along the x-axis:
+This example (from a hydrodynamic simulation) looks along the x-axis to see the *density of the fluid* inside:
 
 <p align="center">
   <img src="MHD_a-64.00_density_z.gif">
 </p>
 
-Here's the same simulation viewed along the y-axis:
+Here's the same simulation viewed along the z-axis:
 
 <p align="center">
   <img src="MHD_a-64.00_density_z.gif">
@@ -27,7 +27,7 @@ Here's the same simulation viewed along the y-axis:
 
 The **forcing amplitude** tells us how quickly we spin the stir sticks that drive the turbulence. Varying the forcing amplitude allows us to simulate turbulent systems with **different sonic Mach numbers** (different levels of compressibility). 
 
-Here is a look at 5 different simulations (all viewed along the x-axis) with Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6. 
+Here is a look at 5 different simulations (all viewed along the x-axis) with Mach numbers of 0.4, 0.8, 1.6, 2.9, and 5.6 (from upper left to bottom right). 
 
 <p align="center">
   <img src="MHD_a-64.00_density_z.gif">
@@ -113,7 +113,6 @@ Citation: J. M. Stone, et. al. (2008). Astrophys. J. Suppl. Ser. 178, 137
 ## Image experimentation
 
 <img src='https://youtu.be/U0Cxs1h-4Dc' title='MHD sim' width='' alt='MHD sim' />
-
 
 <iframe src="https://www.youtube.com/embed/U0Cxs1h-4Dc" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
