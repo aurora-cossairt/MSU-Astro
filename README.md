@@ -74,7 +74,7 @@ Again, we can vary the **forcing amplitude** to see how this plays out for simul
 **Density**
 
 <p align="center">
-  <img src="MHD_density_y.gif">
+  <img src="MHD_density_y_movie.gif">
 </p>
 
 **Velocity**
