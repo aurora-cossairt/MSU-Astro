@@ -108,6 +108,8 @@ We run our plasma turbulence simulations using Athena, which was developed at Pr
 
 ## References: 
 J. M. Stone, et. al. (2008). Astrophys. J. Suppl. Ser. 178, 137
+
 Grete, P., et. al. (2017). Energy transfer in compressible magnetohydrodynamic turbulence. Physics of Plasmas, 24.
+
 Sadek, M., & Aluie, H. (2018). Extracting the spectrum of a flow by spatial filtering. Physical Review Fluids, 3.
 
