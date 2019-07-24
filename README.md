@@ -100,8 +100,14 @@ A **Kolmogorov Power Spectra** illustrates how much energy is contained in diffe
 Creating this kind of power spectrum is one way that we can *analyze energy transport* in the simulations. As part of the ICER-ACRES program at Michigan State University, I helped develop *a new way to analyze energy transport*. To learn more about what we learned, please refer to my poster (presented at the 9th annual Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE))
 
 ## Acknowledgements
+This work was developed as part of the Advanced Computational Research Experience for Students (ACRES) at Michigan State University. This program is supported by the National Science Foundation (Grant number: OAC1560168).
+
 Thanks to my mentors, Dr. Philipp Grete and Dr. Brian O'Shea of Michigan State University.
 
-We run our plasma turbulence simulations using Athena, which was developed at Princeton (https://github.com/PrincetonUniversity/Athena-Cversion)
+We run our plasma turbulence simulations using Athena, which was developed at Princeton (https://github.com/PrincetonUniversity/Athena-Cversion). Their paper is the first reference below.
 
-Citation: J. M. Stone, et. al. (2008). Astrophys. J. Suppl. Ser. 178, 137
+## References: 
+J. M. Stone, et. al. (2008). Astrophys. J. Suppl. Ser. 178, 137
+Grete, P., et. al. (2017). Energy transfer in compressible magnetohydrodynamic turbulence. Physics of Plasmas, 24.
+Sadek, M., & Aluie, H. (2018). Extracting the spectrum of a flow by spatial filtering. Physical Review Fluids, 3.
+
