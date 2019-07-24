@@ -66,7 +66,7 @@ Notice how the features of these simulations seem to be shaped by the magnetic f
 *Look what happens* to the velocity in an MHD simulation!
 
 <p align="center">
-  <img src="MHD_velocity_x_x_movie.gif">
+  <img src="a-64.00-256-MHD_velocity_y_y.gif">
 </p>
 
 Again, we can vary the **forcing amplitude** to see how this plays out for simulations with different **sonic Mach numbers** (upper left to bottom right: Ms = 0.4, Ms = 0.8, Ms = 1.6, Ms = 2.9, Ms = 5.6)
@@ -74,7 +74,7 @@ Again, we can vary the **forcing amplitude** to see how this plays out for simul
 **Density**
 
 <p align="center">
-  <img src="MHD_a-64.00_density_z.gif">
+  <img src="MHD_a-64.00_density_y.gif">
 </p>
 
 **Velocity**
@@ -86,13 +86,7 @@ Again, we can vary the **forcing amplitude** to see how this plays out for simul
 **Acceleration**
 
 <p align="center">
-  <img src="MHD_acceleration_x_x_movie.gif">
-</p>
-
-This time, we can also look at the **cell-centered magnetic fields**
-
-<p align="center">
-  <img src="MHD_cell_centered_B_x_x_movie.gif">
+  <img src="MHD_acceleration_y_y_movie.gif">
 </p>
 
 ### Energy Transport
