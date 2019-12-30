@@ -1,7 +1,7 @@
 ## Understanding Energy Transfer in Plasma Turbulence
 
 Welcome to my virtual gallery! 
-Please enjoy these visualization illustrating my **plasma turbulence simulations**.
+Please enjoy these visualizations illustrating my **plasma turbulence simulations**.
 
 <p align="center">
   <img src="MHD_a-64.00_density_z.gif">
