@@ -97,7 +97,7 @@ A **Kolmogorov Power Spectra** illustrates how much energy is contained in diffe
 
 ![](rhoU_Full_power_spectra.gif)
 
-Creating this kind of power spectrum is one way that we can *analyze energy transport* in the simulations. As part of the ICER-ACRES program at Michigan State University, I helped develop *a new way to analyze energy transport*. To learn more about what we learned, please refer to my poster (presented at the 9th annual Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE))
+Creating this kind of power spectrum is one way that we can *analyze energy transport* in the simulations. As part of the ICER-ACRES program at Michigan State University, I helped develop *a new way to analyze energy transport*. To learn more about what we learned, please refer to my poster (presented at the 9th annual Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE) and the 235th Meeting of the American Astronomical Society (AAS))
 
 ## Acknowledgements
 This work was developed as part of the Advanced Computational Research Experience for Students (ACRES) at Michigan State University. This program is supported by the National Science Foundation (Grant number: OAC1560168).
