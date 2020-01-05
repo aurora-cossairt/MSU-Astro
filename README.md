@@ -104,8 +104,8 @@ There is more than one way to mathematically represent kinetic energy density (t
 
 The two mathematical formalisms we compare are:
 
-'E_FT(k) = \abs(\sqrt(\rho)u(k))^2'
-'E_flt(k) = \frac{\abs(\rhou(k))^2}{2\rho(k)}'
+$E_FT(k) = \abs(\sqrt(\rho)u(k))^2$
+$E_flt(k) = \frac{\abs(\rhou(k))^2}{2\rho(k)}$
 
 ## Acknowledgements
 This work was developed as part of the Advanced Computational Research Experience for Students (ACRES) at Michigan State University. This program is supported by the National Science Foundation (Grant number: OAC1560168).
