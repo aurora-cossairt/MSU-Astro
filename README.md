@@ -107,6 +107,10 @@ The two mathematical formalisms we compare are:
 $E_FT(k) = \abs(\sqrt(\rho)u(k))^2$
 $E_flt(k) = \frac{\abs(\rhou(k))^2}{2\rho(k)}$
 
+This is the equation of continuity:
+
+$\frac{\partial\rho}{\partial t} + \nabla \cdot (\rho v) = 0$
+
 ## Acknowledgements
 This work was developed as part of the Advanced Computational Research Experience for Students (ACRES) at Michigan State University. This program is supported by the National Science Foundation (Grant number: OAC1560168).
 
